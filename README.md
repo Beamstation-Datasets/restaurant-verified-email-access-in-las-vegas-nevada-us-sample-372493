@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Las Vegas, Nevada, US
 
-> Free BeamStation sample export with 69 rows and masked direct-contact fields.
+> Free BeamStation sample export with 99 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `372493` |
 | Location | Las Vegas |
 | Category | Restaurants |
-| Full dataset size | 692 records |
-| Free sample size | 69 records (9.97%) |
-| Last export | 2026-04-22T10:23:33.088269+00:00 |
+| Full dataset size | 998 records |
+| Free sample size | 99 records (9.92%) |
+| Last export | 2026-04-29T11:48:51.108498+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-las-vegas-nevada-us-sample-372493/releases/download/sample-latest/beamstation_372493_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
