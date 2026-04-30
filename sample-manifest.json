@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1947ed80-710d-4d4d-bc84-4594d937f823",
+  "export_job_id": "fbac83ff-f9ea-4cd5-a3b8-b0d6e39bfd87",
   "id_short": 372493,
-  "published_at": "2026-04-22T19:38:09Z",
+  "published_at": "2026-04-30T07:20:47Z",
   "repo_name": "restaurant-verified-email-access-in-las-vegas-nevada-us-sample-372493",
   "sample_asset_name": "beamstation_372493_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/372493/beamstation_372493_restaurants-us-nv_SAMPLE_DIST.csv",
-  "sample_records": 69,
-  "sample_sha256": "111e402e203b789834c5682fcb724be934ebd715520c18e037b2b044dd3c46b7",
-  "sample_size_bytes": 301200,
-  "total_records": 692
+  "sample_records": 99,
+  "sample_sha256": "4925e4378634af77f9b8fec606bc0d5963fec40894315c8e6162a1f1ea545d98",
+  "sample_size_bytes": 415331,
+  "total_records": 998
 }
